@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import { StatusBar } from "expo-status-bar";
-import Title from "@timerrepeater/Title";
+import Title from "@timerrepeater/src/Title";
 
 function App() {
   return (
